@@ -1,3 +1,61 @@
 <resources>
-    <string name="app_name">Project_UTS</string>
+    <string name="app_name">BookApp 178</string>
+
+    <string name="login_subtitle">Masuk untuk mengelola data buku.</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_password_confirm">Konfirmasi password</string>
+    <string name="action_login">Masuk</string>
+    <string name="action_register">Daftar</string>
+    <string name="login_to_register">Belum punya akun? Daftar</string>
+    <string name="register_to_login">Sudah punya akun? Masuk</string>
+
+    <string name="register_title">Buat Akun</string>
+    <string name="register_subtitle">Isi data berikut untuk mendaftar.</string>
+
+    <string name="dashboard_greeting">Halo, %1$s</string>
+    <string name="dashboard_book_label">Buku terdaftar</string>
+    <string name="action_manage_books">Kelola Data Buku</string>
+    <string name="action_logout">Keluar</string>
+    <string name="logout_title">Keluar</string>
+    <string name="logout_message">Anda akan keluar dari sesi ini.</string>
+
+    <string name="book_list_title">Data Buku</string>
+    <string name="search_hint">Cari pengarang atau tahun</string>
+    <string name="empty_books">Belum ada buku</string>
+    <string name="empty_search">Tidak ada buku yang cocok</string>
+    <string name="book_item_meta">%1$s, %2$d</string>
+
+    <string name="book_form_add_title">Tambah Buku</string>
+    <string name="book_form_edit_title">Ubah Buku</string>
+    <string name="hint_book_title">Judul</string>
+    <string name="hint_book_author">Pengarang</string>
+    <string name="hint_book_year">Tahun terbit</string>
+    <string name="action_save">Simpan</string>
+
+    <string name="action_cancel">Batal</string>
+    <string name="action_delete">Hapus</string>
+    <string name="delete_title">Hapus buku</string>
+    <string name="delete_message">Buku \"%1$s\" akan dihapus.</string>
+
+    <string name="error_username_empty">Username tidak boleh kosong</string>
+    <string name="error_password_empty">Password tidak boleh kosong</string>
+    <string name="error_password_short">Password minimal 6 karakter</string>
+    <string name="error_password_mismatch">Konfirmasi password tidak sama</string>
+    <string name="error_username_taken">Username sudah dipakai</string>
+    <string name="error_login_failed">Username atau password salah</string>
+    <string name="error_book_title_empty">Judul tidak boleh kosong</string>
+    <string name="error_book_author_empty">Pengarang tidak boleh kosong</string>
+    <string name="error_book_year_empty">Tahun tidak boleh kosong</string>
+    <string name="error_book_year_invalid">Tahun harus angka 1000 sampai 2100</string>
+
+    <string name="msg_register_success">Akun berhasil dibuat</string>
+    <string name="msg_save_success">Buku disimpan</string>
+    <string name="msg_delete_success">Buku dihapus</string>
+    <string name="msg_book_not_found">Buku tidak ditemukan</string>
+
+    <string name="content_desc_add_book">Tambah buku</string>
+    <string name="content_desc_edit_book">Ubah buku</string>
+    <string name="content_desc_delete_book">Hapus buku</string>
+    <string name="content_desc_back">Kembali</string>
 </resources>
